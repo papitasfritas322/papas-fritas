@@ -1,2 +1,2 @@
 nombre = "Sebas"
-print("hola" + nombre)
+print("chao" + nombre)
